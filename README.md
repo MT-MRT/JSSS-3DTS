@@ -16,7 +16,12 @@ The user set the path where the data is located and the figures presented in the
 The content of the files is as follows:  
 * PC_PostProcess: It is the class defined to assess the 3D-Thermograms (pointclouds). The features discussed in the paper are defined here.
 * main.py: Here is created the object-class of the 3D-Thermograms to evaluate and are generated the plots presented in the paper.
-* Plots.py -> Some examplary functions to plot the results. 
+* Plots.py -> Some examplary functions to plot the results.
+
+The data can be downloaded from: 
+10.5281/zenodo.8391050
+
+
 
 
 
